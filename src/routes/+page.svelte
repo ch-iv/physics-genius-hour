@@ -1,3 +1,7 @@
+<script>
+    import photo1 from '$lib/images/1.jpg';
+</script>
+
 <h1 class="font-anon-bold mt-8 mb-0 text-3xl text-yellow-500">The Physics Behind Badminton</h1>
 <h2 class="font-anon-italic mb-8 text-md text-orange-500">By Alvin, Danish and Ivan</h2>
 
@@ -9,7 +13,7 @@
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut cupiditate deserunt error est id maxime minus, nostrum numquam odit officia quo saepe, sint tempora ut veniam voluptatibus. At, beatae commodi culpa, delectus deserunt ea ex obcaecati officiis ratione repellat rerum voluptas. Accusamus deleniti harum ipsam quos, ratione reiciendis veritatis!
 </div>
 
-<img class="my-8" src="./src/lib/images/1.jpg">
+<img class="my-8" src={photo1}>
 
 <h2 class="font-anon-bold mb-6 mt-16 text-2xl text-orange-500"><span class="text-yellow-500 text-4xl mr-2">#</span>How the shuttlecock works</h2>
 
