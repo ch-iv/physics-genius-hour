@@ -7,11 +7,11 @@
 
     let width, height;
     let angle, vi, force, tension;
-    let off_x = 100;
-    let off_y = 100;
+    let off_x = 430;
+    let off_y = 150;
     let initialized = false;
     let shuttle_size = 20;
-    let s = new Shuttle(shuttle_size, shuttle_size + off_x, shuttle_size + off_y, 10, 45, 0.26, 26)
+    let s = new Shuttle(shuttle_size, shuttle_size + off_x, shuttle_size + off_y, 280, 50, 0.26, 24)
     let g = 9.8;
     let dragging = false;
 
@@ -79,7 +79,7 @@
     <div class=" font-anon text-white absolute w-[40%] p-8">
         <p>Angle: {angle} deg</p>
         <RangeSlider class="w-[100%]" bind:values={angle} pips all='label' on:change={e => s.angle = e.detail.values[0]}/>
-        <p>Applied force: {force} N</p>
+        <p>Applied force: {force/10} N</p>
         <RangeSlider class="w-[100%]" bind:values={force} pips  min={10} max={550} on:change={e => s.force = e.detail.values[0]}/>
         <p>String tension: {tension} lbs</p>
         <RangeSlider class="w-[100%]" bind:values={tension} pips  min={15} max={32} on:change={e => s.tension = e.detail.values[0]}/>
