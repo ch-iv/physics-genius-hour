@@ -1,9 +1,13 @@
 <script>
     import photo1 from '$lib/images/1.jpg';
 </script>
+<div class="max-w-3xl p-8 mx-auto m-0 height-[100%]">
 
 <h1 class="font-anon-bold mt-8 mb-0 text-3xl text-yellow-500">The Physics Behind Badminton</h1>
 <h2 class="font-anon-italic mb-8 text-md text-orange-500">By Alvin, Danish and Ivan</h2>
+
+
+
 
 <div class="font-anon hyphens-auto my-4" lang="en">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur autem dicta distinctio eaque eum magnam nesciunt optio, quaerat quisquam repellat, rerum sapiente, similique vel. Asperiores deleniti distinctio eius ex, facere illum in laborum laudantium maiores neque nihil non nulla officia omnis perferendis placeat vel! Aperiam atque blanditiis commodi debitis delectus deleniti distinctio dolorem eaque et ex facilis illum in ipsa iste labore laboriosam neque obcaecati odio omnis pariatur porro provident quasi rem repudiandae sapiente vero vitae, voluptatem? Beatae consequatur dignissimos doloribus ducimus eum fugiat illo, porro quas quod sequi. Deserunt, eaque impedit incidunt iusto nam nemo quos tempora. Ab accusamus ad alias beatae corporis delectus deserunt ex explicabo facere facilis id illo ipsa ipsam, ipsum, iure iusto labore laborum magnam mollitia natus nisi placeat quae quam quas qui quibusdam quis quod rem repellat reprehenderit repudiandae rerum sapiente sequi soluta sunt vitae voluptatem. Doloribus esse est ipsum labore omnis sint vero.
@@ -48,4 +52,5 @@
 
 <div class="font-anon hyphens-auto my-4 hyphens-auto" lang="en">
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias amet blanditiis consequatur corporis dolorum excepturi facere hic ipsam, iste laborum laudantium magnam minima necessitatibus nihil, nulla placeat porro quasi quidem quis repellendus saepe similique soluta vero vitae? Accusantium adipisci alias aliquam animi architecto, atque beatae corporis doloremque eaque eligendi et ex libero maiores necessitatibus numquam, odio officia officiis perferendis quidem quod repellat sapiente sit totam, vitae voluptate voluptatem voluptatibus! Ab alias assumenda beatae consequatur dignissimos eos error et inventore nam natus, numquam provident quidem quisquam quo ratione repellendus ullam velit. Aperiam cupiditate dolor et eveniet fuga, fugit inventore iusto, laudantium, libero magnam magni nemo numquam qui quis rem repellat rerum sequi sit soluta suscipit ullam unde voluptatibus. Dicta excepturi ipsam minima nesciunt quis sit? A accusamus aliquid amet aut beatae blanditiis consectetur corporis delectus deleniti dicta distinctio dolore doloremque eius error et eveniet ex exercitationem facere illum impedit libero, nemo neque nesciunt nostrum nulla pariatur quis, reiciendis repellat repellendus saepe sequi ullam unde velit? Autem delectus deserunt distinctio id libero molestias praesentium repellendus sit suscipit tenetur? A culpa dicta distinctio dolorum enim eos eum exercitationem expedita explicabo harum libero, maiores, necessitatibus nemo nobis perferendis quis sint velit vero voluptate.
+</div>
 </div>
