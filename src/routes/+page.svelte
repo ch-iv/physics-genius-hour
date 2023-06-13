@@ -1,5 +1,22 @@
 <script>
-    import photo1 from '$lib/images/1.jpg';
+    import p1 from '$lib/images/1.png';
+    import p2 from '$lib/images/2.png';
+    import p3 from '$lib/images/3.png';
+    import p4 from '$lib/images/4.png';
+    import p5 from '$lib/images/5.png';
+    import p6 from '$lib/images/6.png';
+    import p7 from '$lib/images/7.png';
+    import p8 from '$lib/images/8.png';
+    import p9 from '$lib/images/9.png';
+    import p10 from '$lib/images/10.png';
+    import p11 from '$lib/images/11.png';
+    import p12 from '$lib/images/12.png';
+    import p13 from '$lib/images/13.png';
+    import p14 from '$lib/images/14.png';
+    import p15 from '$lib/images/15.png';
+    import p16 from '$lib/images/16.png';
+    import p17 from '$lib/images/17.png';
+    import p18 from '$lib/images/18.png';
 </script>
 <div class="max-w-3xl p-8 mx-auto m-0 height-[100%]">
 
@@ -18,7 +35,7 @@
 <div class="font-anon hyphens-auto my-4" lang="en">
     Shuttlecock’s average dimensions:
 </div>
-
+<img class="my-8" src={p1}>
 <h2 class="font-anon-bold mb-6 mt-16 text-2xl text-orange-500"><span class="text-yellow-500 text-4xl mr-2">#</span>The design of the shuttlecock</h2>
     <div class="font-anon hyphens-auto my-4" lang="en">
         To understand the physics behind why the shuttlecock flips during flight, such that the cork points in the direction of the motion we first need to understand the terms centre of gravity and the pressure center.
@@ -33,6 +50,8 @@
         Cg - the centre of gravity<br>
         Cp - the centre of pressure
     </div>
+    <img class="my-8" src={p2}>
+    <img class="my-8" src={p3}>
     <div class="font-anon hyphens-auto my-4" lang="en">
         This image illustrates the flipping of the shuttlecock through the air.
     </div>
@@ -68,9 +87,11 @@
     <div class="font-anon hyphens-auto my-4" lang="en">
         Most shuttlecocks are constructed so that they have a natural counterclockwise spin as seen by the hitter when the shuttle cock is moving away from him/ her. This is due to the overlapping of the feathers, which creates an asymmetrical shape. This “natural” spin stabilizes the shuttle cock while it flies. You can observe this spin by dropping the shuttle cock from a raised platform, e.g. a balcony.
     </div>
+    <img class="my-8" src={p4}>
     <div class="font-anon hyphens-auto my-4" lang="en">
         The rotational velocity Ω is measured as a function of the projectile speed U, as shown in the graph below. The graph reveals a linear correlation between R Ω and U, and differences between plastic and feather rotational velocities. Where the slope of the linear trend is equal to 0.02 for the plastic shuttlecock, the one for the feathered projectile is twice as large.
     </div>
+    <img class="my-8" src={p5}>
     <div class="font-anon hyphens-auto my-4" lang="en">
         This spin across the central axis of the shuttle cock gets faster as shuttle cock travels faster. When the shuttle cock slows down, so does the spinning and it becomes less stable.
     </div>
@@ -89,6 +110,7 @@
     <div class="font-anon hyphens-auto my-4" lang="en">
         The shuttlecocks were tested at wind speed of 30, 40, 50, 60, 70, 80, 100, 120, 140 km/h. Feather shuttlecocks were modified by having the gaps at the skirt based closed. Synthetic shuttlecocks were modified by having the base gaps closed, skirt gaps closed, and the whole skirt section closed. This is to investigate the effect of gaps in each section of synthetic shuttlecocks.
     </div>
+    <img class="my-8" src={p6}>
     <div class="font-anon hyphens-auto my-4" lang="en">
         The drag coefficients of all shuttlecocks (modified and unmodified) used in this study were plotted as a function of wind speeds.
     </div>
@@ -105,9 +127,12 @@
         S1 top - the same shuttlecock with the top part of the skirt covered (further from the cork)<br>
         S1 full - the same shuttlecock with the entire skirt covered
     </div>
+    <img class="my-8" src={p6}>
+    <img class="my-8" src={p7}>
     <div class="font-anon hyphens-auto my-4" lang="en">
         In order to explain how decreasing the air bleed can reduce drag, the wake region was considered. It was believed that the air flowing through the gap prevented the air flowing around the outside of the skirt to recirculate back into the blockage region which would cause the recirculation to occur further downstream and would expand outward, effectively increasing the wake area behind the shuttlecock.
     </div>
+    <img class="my-8" src={p8}>
     <div class="font-anon hyphens-auto my-4" lang="en">
         The opening at the end that allows the flow to recirculate back in has a strong influence on the drag characteristic. Without it, greater wake area is bound to occur and thus greater drag. The wake is an area of disturbed airflow that forms due to the object's passage. The swirling air molecules in the wake can exert pressure on the object, pulling against its motion and slowing it down.
     </div>
@@ -118,6 +143,7 @@
     <div class="font-anon hyphens-auto my-4" lang="en">
         The two types of shuttlecock are the feathered shuttle and the synthetic/nylon shuttle. As far as materials are concerned, the feathered shuttle is usually made of feathers from the left-wing of gooses, whereas the synthetic shuttle is usually made of synthetic materials (plastic)
     </div>
+    <img class="my-8" src={p9}>
     <div class="font-anon-bold text-c hyphens-auto my-4" lang="en">
         Flight
     </div>
@@ -133,6 +159,7 @@
     <div class="font-anon hyphens-auto my-4" lang="en">
         With a feathered shuttlecock, players are able to achieve higher clears to the back of an opponent’s court with a lower risk of it crossing the back line, given the steeper drop at the end of its flight. Additionally, players who hit drop shots from their backcourt can deliver drops closer to the net, given the faster deceleration of the shuttlecock.
     </div>
+    <img class="my-8" src={p10}>
     <div class="font-anon hyphens-auto my-4" lang="en">
         Plastic shuttlecock: the trajectory of a plastic shuttlecock will take on more of a normal parabola, which are symmetric in nature, however, they are still highly asymmetrical.
     </div>
@@ -142,6 +169,7 @@
     <div class="font-anon hyphens-auto my-4" lang="en">
         As a result, a plastic shuttlecock’s flight will travel further but flatter than a feathered shuttlecock’s flight, when hit by the same stroke and power.
     </div>
+    <img class="my-8" src={p10}>
 <h2 class="font-anon-bold mb-6 mt-16 text-2xl text-orange-500"><span class="text-yellow-500 text-4xl mr-2">#</span>Other properties</h2>
     <div class="font-anon hyphens-auto my-4 hyphens-auto" lang="en">
         <ul class="list-decimal ml-8">
@@ -169,6 +197,7 @@
          <span class="font-anon-bold text-lg">Trajectories:<br></span>
         As shown in the images the parabola of a shuttlecock is asymmetric. The image on the right shows a shuttlecock parabola vs a tennis ball parabola launched at the same velocity and angle.
     </div>
+    <img class="my-8" src={p11}>
     <div class="font-anon hyphens-auto my-4" lang="en">
         When we study projectile motion at the high school level we normally completely ignore air resistance and assume that the x-component of velocity remains constant throughout the projectile, and that the only force acting on the object is gravity. However, in real-life we know that air resistance will cause a deceleration in the x-axis too, and hence most real world projectiles are not completely symmetrical. In the case of a shuttlecock, the negative acceleration in the x-axis is extremely large (due to its unique design) and therefore causes a huge loss in horizontal velocity, resulting in the huge drop seen in the projectile. When compared to the tennis ball trajectory we can see that the tennis ball has much less negative acceleration in the x-axis and therefore has a more symmetrical projectile similar to the ones we study in high school.
     </div>
@@ -196,6 +225,7 @@
                 <ul class="list-disc ml-8">
                     <li>Usually composed of aluminum and graphite, which are known for being lightweight materials.</li>
                     <li>The “heavier” rackets are not made of different materials, they’re simply composed of more graphite/aluminum</li>
+                    <img class="my-8" src={p12}>
                 </ul>
             </li>
 
@@ -204,6 +234,7 @@
                     <li>Made of nylon, a durable and long-lasting material.</li>
                     <li>Thicker nylon strings allow for more control and durability by holding more tension, but require more power from the player.</li>
                     <li>Thinner nylon strings allow for more power by allowing for a greater reaction force. As the shuttle hits the strings, they stretch and propel the shuttle forward. </li>
+                    <img class="my-8" src={p13}>
                 </ul>
             </li>
         </ul>
@@ -212,7 +243,10 @@
         <span class="font-anon-bold text-lg">Tension of Racket:<br></span>
         The tension of the racket is crucial in badminton as the elasticity and flexibility of the strings both contribute to the velocity and handling of the shot. Different tensions of strings provide different repulsion power, which is defined by how the string assists in pushing the shuttle forward. Lower tension in the strings provides more repulsion, as their elasticity develops a tendency to stretch and propel the shuttle forward. (Admin, 2023). Higher tension in the strings provides more control, as the stiff strings provide less repulsion force, power is required from the player to compensate.
     </div>
-
+    <div class="flex">
+        <img class="my-8" src={p14}>
+        <img class="my-8" src={p15}>
+    </div>
     <div class="font-anon hyphens-auto my-4" lang="en">
         <span class="font-anon-bold text-lg">Sweet Spots:<br></span>
         The sweet spot of a racket is the area on the strings that allows for the maximum impact, best sound, and least vibration when hit. When the shuttle strikes the sweet spot, it absorbs the maximum amount of forward momentum and thus producing the most power in return. This is because the closer to the sweet spot, the less energy transferred to the shuttle is lost, allowing the racket to provide the most kinetic energy back to the shuttle. Whereas hitting farther away from the sweet spot results in more energy given to the racket, and less kinetic energy is given to the shuttle in return. Sweet spots are usually located above the center of the string area. Factors that affect the area of the sweet spot are the shape of the frame and string tension.
