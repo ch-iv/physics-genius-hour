@@ -1,4 +1,3 @@
-import {sineOut} from "svelte/easing";
 
 export default class Shuttle {
     constructor(size, x, y, force, angle, damp, tension) {

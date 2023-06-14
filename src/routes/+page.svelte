@@ -251,7 +251,30 @@
         <span class="font-anon-bold text-lg">Sweet Spots:<br></span>
         The sweet spot of a racket is the area on the strings that allows for the maximum impact, best sound, and least vibration when hit. When the shuttle strikes the sweet spot, it absorbs the maximum amount of forward momentum and thus producing the most power in return. This is because the closer to the sweet spot, the less energy transferred to the shuttle is lost, allowing the racket to provide the most kinetic energy back to the shuttle. Whereas hitting farther away from the sweet spot results in more energy given to the racket, and less kinetic energy is given to the shuttle in return. Sweet spots are usually located above the center of the string area. Factors that affect the area of the sweet spot are the shape of the frame and string tension.
     </div>
+    <div class="flex">
+    <img class="my-8" src={p16}>
+    <img class="my-8" src={p17}>
+    <img class="my-8" src={p18}>
+    </div>
+    <div class="font-anon hyphens-auto my-4 hyphens-auto" lang="en">
+        <span class="font-anon-bold text-lg">Momentum & Weight:<br></span>
+        <ul class="list-disc ml-8">
+            <li>Law of Conservation of Momentum
+                <ul class="list-disc ml-8">
+                    <li>According to the Law of Conservation of Momentum, momentum is conserved as the shuttle gains kinetic energy by striking the racket. The momentum lost by the racket is equal to the momentum gained by the shuttle. As we swing the racket, the racket gains momentum and is then transferred to the shuttle. </li>
+                </ul>
+            </li>
 
+            <li>Weight
+                <ul class="list-disc ml-8">
+                    <li>It is believed that “the lighter the racket, the more manageable and maneuverable  it is.” (Allen Pros, 2023). Players are able to swing it faster to achieve higher velocity.</li>
+                    <li>Some people prefer heavier rackets as it provides more power.</li>
+                    <li>P = mv, meaning that mass and velocity are proportional to momentum. To achieve the greatest momentum, either the mass velocity can be increased to increase momentum. </li>
+                    <li>Lighter rackets make it easier to achieve higher velocities, while the mass of heavier rackets naturally creates greater momentum upon contact.</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
 
     <a href="/simulation" class="">
         <div class="h-[200px] w-[100%] bg-yellow-500 hover:bg-yellow-600 flex items-center align-center justify-center m-auto mt-16">
