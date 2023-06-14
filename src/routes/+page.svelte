@@ -21,7 +21,7 @@
 <div class="max-w-3xl p-8 mx-auto m-0 height-[100%]">
 
 <h1 class="font-anon-bold mt-8 mb-0 text-5xl text-yellow-500">Physics Behind Badminton</h1>
-<h2 class="font-anon-italic mb-8 text-md text-orange-500">By Alvin, Danish and Ivan</h2>
+<h2 class="font-anon-italic mb-8 text-md text-orange-500">By Alvin, Danish and Ivan.</h2>
 
 
 
